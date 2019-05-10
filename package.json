@@ -1,0 +1,17 @@
+{
+  "name": "sr-tree",
+  "version": "0.0.1",
+  "description": "Efficient in-memory tree data structure built on ES6 Map\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tree",
+    "Map",
+    "es6",
+    "Set"
+  ],
+  "author": "Simon Robert <srob@srob.fr>",
+  "license": "MIT"
+}
