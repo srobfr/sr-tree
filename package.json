@@ -1,10 +1,10 @@
 {
   "name": "sr-tree",
-  "version": "0.0.1",
-  "description": "Efficient in-memory tree data structure built on ES6 Map\"",
+  "version": "1.0.0",
+  "description": "Efficient in-memory tree data structure built on ES6 Map",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha tests.js"
   },
   "keywords": [
     "tree",
@@ -13,5 +13,8 @@
     "Set"
   ],
   "author": "Simon Robert <srob@srob.fr>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
 }
