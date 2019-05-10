@@ -2,7 +2,7 @@
   "name": "sr-tree",
   "version": "1.0.1",
   "description": "Efficient in-memory tree data structure built on ES6 Map",
-  "main": "index.js",
+  "main": "tree.js",
   "scripts": {
     "test": "mocha tests.js"
   },
